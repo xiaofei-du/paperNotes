@@ -1,0 +1,11 @@
+.DS_Store
+
+# Images
+*.png
+*.jpg
+*.pdf
+*.bmp
+
+*.txt.user
+*.user
+.history
