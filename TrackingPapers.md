@@ -14,6 +14,12 @@
 - **End-to-end tracking and semantic segmentation using recurrent neural networks.** Peter Ondrúška, Julie Dequaire, Dominic Zeng Wang, Ingmar Posner. arXiv (2016). \[[paper](https://arxiv.org/abs/1604.05091)\]
 - **Deep Tracking on the Move: Learning to Track the World from a Moving Vehicle using Recurrent Neural Networks.** Julie Dequaire, Dushyant Rao, Peter Ondrúška, Dominic Wang, Ingmar Posner. arXiv (2016). \[[paper](https://arxiv.org/abs/1609.09365)\]
 - **Deep tracking in the wild: End-to-end tracking using recurrent neural networks.** Julie Dequaire, Peter Ondrúška, Dushyant Rao, Dominic Wang, Ingmar Posner. IJRR (2017). \[[paper](http://journals.sagepub.com/doi/abs/10.1177/0278364917710543)\]
+- **A Multi-cut Formulation for Joint Segmentation and Tracking of Multiple Objects.** Margret Keuper, Siyu Tang, Yu Zhongjie, Bjoern Andres, Thomas Brox, Bernt Schiele. arXiv. (2016). \[[paper](https://arxiv.org/abs/1607.06317)\]
+- **Multi-Person Tracking by Multicut and Deep Matching.** Siyu Tang, Bjoern Andres, Mykhaylo Andriluka, Bernt Schiele. BMTT (2016). \[[paper](https://arxiv.org/abs/1608.05404)\] :trophy:*Winner of the MOT Challenge ECCV 2016*
+- **Joint Graph Decomposition and Node Labeling: Problem, Algorithms, Applications.** Evgeny Levinkov, Jonas Uhrig, Siyu Tang, Mohamed Omran, Eldar Insafutdinov, Alexander Kirillov, Carsten Rother, Thomas Brox, Bernt Schiele and Bjoern Andres. CVPR (2017). \[[paper](https://arxiv.org/abs/1611.04399)\]
+- **LMP: Multiple People Tracking with Lifted Multicut and Person Re-identification.** Siyu Tang and Mykhaylo Andriluka and Bjoern Andres and Bernt Schiele. CVPR (2017). :trophy:*Winner of MOT16 leaderboard*
+- **POI: Multiple Object Tracking with High Performance Detection and Appearance Feature.** Fengwei Yu, Wenbo Li, Quanquan Li, Yu Liu, Xiaohua Shi, Junjie Yan. ECCVW (2016). \[[paper](https://arxiv.org/abs/1610.06136)\]
+- **DeepSORT: Simple Online and Realtime Tracking with a Deep Association Metric.** Nicolai Wojke, Alex Bewley, Dietrich Paulus. arXiv. (2017). \[[paper](https://arxiv.org/abs/1703.07402)\]\[[code](https://github.com/nwojke/deep_sort)\]
 - **Multiple Object Tracking: A Literature Review.** Wenhan Luo, Junliang Xing, Anton Milan, Xiaoqin Zhang, Wei Liu, Xiaowei Zhao and Tae-Kyun Kim. arXiv (2017). [[paper](https://arxiv.org/abs/1409.7618)]   
 - **Tracking the Trackers: An Analysis of the State of the Art in Multiple Object Tracking.** Laura Leal-Taixé, Anton Milan, Konrad Schindler, Daniel Cremers, Ian Reid, Stefan Roth. arXiv (2017). \[[paper](https://arxiv.org/abs/1704.02781)\]
 
@@ -33,7 +39,15 @@
 
 
 
+### Others
+
+- **Video Segmentation via Object Flow.** Yi-Hsuan Tsai, Ming-Hsuan Yang, Michael J. Black.  CVPR (2016). \[[paper](http://files.is.tue.mpg.de/black/papers/TsaiCVPR2016.pdf)\]\[[project](https://sites.google.com/site/yihsuantsai/research/cvpr16-segmentation)\]\[[video](https://www.youtube.com/watch?v=rlMXSrSHCZQ)\]\[[code](https://github.com/wasidennis/ObjectFlow)\]
+- **Optical Flow in Mostly Rigid Scenes.** Jonas Wulff, Laura Sevilla-Lara, Michael J. Black. CVPR (2017). \[[paper](http://files.is.tue.mpg.de/black/papers/MRFlow.pdf)\]\[[video](https://www.youtube.com/watch?v=7hrTYWfgZF8&feature=youtu.be)\]
+- **Video Propagation Networks.** Varun Jampani, Raghudeep Gadde, Peter V. Gehler. CVPR (2017). \[[paper](https://varunjampani.github.io/papers/jampani17_VPN.pdf)\]\[[project](https://varunjampani.github.io/vpn/)\]\[[code](https://github.com/varunjampani/video_prop_networks)\]
+
 ### Highlights
 
 - [**Anton Milan**](http://www.milanton.de/)
+- [**Workshop on Benchmarking Multi-target Tracking (BMTT)**](https://motchallenge.net/workshops/bmtt-pets2017/)
+- **[Perceiving Systems at Max Planck Institue for Intelligent Systems](https://ps.is.tuebingen.mpg.de/publications)**
 
