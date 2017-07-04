@@ -10,6 +10,7 @@
 
 ### 2D Multiple Ojbect Tracking (MOT)
 
+- **Online Domain Adaptation for Multi-Object Tracking.** Adrien Gaidon, Eleonora Vig. BMVC (2015). \[[paper](https://arxiv.org/abs/1508.00776)\]
 - **Deep Tracking: Seeing Beyond Seeing Using Recurrent Neural Networks.** Peter Ondrúška and Ingmar Posner. AAAI (2016). \[[paper](https://arxiv.org/abs/1602.00991)\]\[[code](https://github.com/pondruska/DeepTracking)\]
 - **End-to-end tracking and semantic segmentation using recurrent neural networks.** Peter Ondrúška, Julie Dequaire, Dominic Zeng Wang, Ingmar Posner. arXiv (2016). \[[paper](https://arxiv.org/abs/1604.05091)\]
 - **Deep Tracking on the Move: Learning to Track the World from a Moving Vehicle using Recurrent Neural Networks.** Julie Dequaire, Dushyant Rao, Peter Ondrúška, Dominic Wang, Ingmar Posner. arXiv (2016). \[[paper](https://arxiv.org/abs/1609.09365)\]
@@ -20,6 +21,7 @@
 - **LMP: Multiple People Tracking with Lifted Multicut and Person Re-identification.** Siyu Tang and Mykhaylo Andriluka and Bjoern Andres and Bernt Schiele. CVPR (2017). :trophy:*Winner of MOT16 leaderboard*
 - **POI: Multiple Object Tracking with High Performance Detection and Appearance Feature.** Fengwei Yu, Wenbo Li, Quanquan Li, Yu Liu, Xiaohua Shi, Junjie Yan. ECCVW (2016). \[[paper](https://arxiv.org/abs/1610.06136)\]
 - **DeepSORT: Simple Online and Realtime Tracking with a Deep Association Metric.** Nicolai Wojke, Alex Bewley, Dietrich Paulus. arXiv. (2017). \[[paper](https://arxiv.org/abs/1703.07402)\]\[[code](https://github.com/nwojke/deep_sort)\]
+- **Online Multi-Target Tracking Using Recurrent Neural Networks.** Anton Milan, S. Hamid Rezatofighi, Anthony Dick, Ian Reid and Konrad Schindler. AAAI (2017). \[[paper](http://www.milanton.de/files/aaai2017/aaai2017-anton-rnntracking.pdf)\]\[[poster](http://www.milanton.de/files/aaai2017/aaai2017-anton-rnntracking-poster.pdf)\]\[[code](https://bitbucket.org/amilan/rnntracking)\]
 - **Multiple Object Tracking: A Literature Review.** Wenhan Luo, Junliang Xing, Anton Milan, Xiaoqin Zhang, Wei Liu, Xiaowei Zhao and Tae-Kyun Kim. arXiv (2017). [[paper](https://arxiv.org/abs/1409.7618)]   
 - **Tracking the Trackers: An Analysis of the State of the Art in Multiple Object Tracking.** Laura Leal-Taixé, Anton Milan, Konrad Schindler, Daniel Cremers, Ian Reid, Stefan Roth. arXiv (2017). \[[paper](https://arxiv.org/abs/1704.02781)\]
 
