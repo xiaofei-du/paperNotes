@@ -32,7 +32,7 @@
 
 - **POI: Multiple Object Tracking with High Performance Detection and Appearance Feature.** Fengwei Yu, Wenbo Li, Quanquan Li, Yu Liu, Xiaohua Shi, Junjie Yan. BMTT (2016). \[[paper](https://arxiv.org/abs/1610.06136)\]
 
-  ​:green_book:​_The paper points out the importance of high performance <u>detector</u> and <u>appearance feature</u>. They lead to the state-of-the-art results, even with a simple online tracker._
+  ​:green_book:​ _The paper points out the importance of high performance <u>detector</u> and <u>appearance feature</u>. They lead to the state-of-the-art results, even with a simple online tracker._
 
   - _The detector is based on Faster R-CNN, with additional training data includes ETHZ, Caltech and <u>self-collected suveillance dataset</u>._
   - _GoogLeNet-ish network is trained with multiple re-id datasets (PRW, Market-1501, VIPeR and CUHK03) using softmax and triplet loss._
@@ -40,7 +40,7 @@
 
 - **SORT:Simple Online and Realtime Tracking.** Alex Bewley, Zongyuan Ge, Lionel Ott, Fabio Ramos, Ben Upcroft. ICIP (2016). \[[paper](https://arxiv.org/abs/1602.00763)\]\[[code](https://github.com/abewley/sort)\]
 
-  ​:green_book:​ *The online tracking framework in the paper focuses on frame-to-frame predication and association. It leverages the state-of-the-art detection results, and combines with a classic, simple yet efficient online tracking framework using Kalman filter as motion model and Hungarian alforithm for data asscociation.*
+  ​:green_book: *The online tracking framework in the paper focuses on frame-to-frame predication and association. It leverages the state-of-the-art detection results, and combines with a classic, simple yet efficient online tracking framework using Kalman filter as motion model and Hungarian alforithm for data asscociation.*
 
   - _Note that the appearance features are ignored in tracking to avoid adding overhead into the framework._
   - _The paper identifys the <u>detection quality</u> as a key factor incluencing the tracking performance. So rather than aiming to design a tracking framework which is robust to deteciton errors, it chooses to explore the power of advanced CNN to solve the detection problem directly._ 
