@@ -40,10 +40,11 @@
 
 - **SORT:Simple Online and Realtime Tracking.** Alex Bewley, Zongyuan Ge, Lionel Ott, Fabio Ramos, Ben Upcroft. ICIP (2016). \[[paper](https://arxiv.org/abs/1602.00763)\]\[[code](https://github.com/abewley/sort)\]
 
-  :green_book:_The online tracking framework in the paper focuses on frame-to-frame predication and association. It leverages the state-of-the-art detection results, and combines with a classic, simple yet efficient online tracking framework using Kalman filter as motion model and hungarian alforithm for data asscociation._
+  ​:green_book:​_The online tracking framework in the paper focuses on frame-to-frame predication and association. It leverages the state-of-the-art detection results, and combines with a classic, simple yet efficient online tracking framework using Kalman filter as motion model and Hungarian alforithm for data asscociation._
 
   - _Note that the appearance features are ignored in tracking to avoid adding overhead into the framework._
-  - _The paper identifys the detection quality as a key factor incluencing the tracking performance. So rather than aiming to design a tracking framework which is robust to deteciton errors, it chooses to explore the power of advanced CNN to solve the detection problem directly._ 
+  - _The paper identifys the <u>detection quality</u> as a key factor incluencing the tracking performance. So rather than aiming to design a tracking framework which is robust to deteciton errors, it chooses to explore the power of advanced CNN to solve the detection problem directly._ 
+  - _The simplicity of the design leads to <u>super fast speed</u>: 260Hz._  
 
 - **DeepSORT: Simple Online and Realtime Tracking with a Deep Association Metric.** Nicolai Wojke, Alex Bewley, Dietrich Paulus. arXiv. (2017). \[[paper](https://arxiv.org/abs/1703.07402)\]\[[code](https://github.com/nwojke/deep_sort)\]
 
