@@ -4,7 +4,7 @@
 
 - VIPeR
 
-- [*Market-1501**](http://www.liangzheng.org/Project/project_reid.html)
+- [**Market-1501**](http://www.liangzheng.org/Project/project_reid.html)
 
   > The dataset is collected in front of a supermarket in Tsinghua University. A total of six cameras are used, including 5 high-resolution cameras, and one low-resolution camera. Overlap exists among different cameras. Overall, this dataset contains 32,668 annotated bounding boxes of 1,501 identities.
 
@@ -19,6 +19,10 @@
   > CUHK02: 1816 identities, 7264 images, manually cropped
   >
   > CUHK03: 1360 identities, 13164 images, manually cropped + automatically detected
+
+- [**DukeMTMC**](http://vision.cs.duke.edu/DukeMTMC/)
+
+- [**DukeMTMC4ReID**](https://github.com/NEU-Gou/DukeReID)
 
 ### Papers
 

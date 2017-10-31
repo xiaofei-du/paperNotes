@@ -63,7 +63,7 @@
 
   > PoseTrack is a new large-scale benchmark for multi human pose estimation and tracking in video. We provide a publicly available training and validation set as well as an evaluation server for benchmarking on a held-out test set.
 
-  ​
+- [**Human Skeletal System Keypoints Detection (2017)**](https://challenger.ai/competition/keypoint?lan=en)
 
 ### 3D MOT
 
@@ -71,6 +71,9 @@
 
   > This benchmark contains video sequences with available camera calibration, enabling tracking in world coordinates.
 
+- [**WILDTRACK**](http://cvlab.epfl.ch/data/wildtrack) \[[paper](https://arxiv.org/abs/1707.09299)\]
+
+  > The dataset brings multi-camera detection and tracking methods into the wild. It meets the need of the deep learning methods for a large-scale multi-camera dataset of walking pedestrians, where the cameras’ fields of view in large part overlap. Its high precision joint calibration and synchronization shall allow for development of new algorithms that go beyond what is possible with currently available data-sets.
 
 
 ### 3D Pose
@@ -78,3 +81,9 @@
 - [**TUD Datasets (2010)**](https://www.d2.mpi-inf.mpg.de/node/428)
 
   > The "TUD Stadmitte" sequence was used to demonstrate 3D pose estimation performance in real-world street conditions.
+
+### Highlights
+
+- [**Institute of Computer Graphics and Vision at TU Graz**](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/)
+- [**Computer Vision Group at RWTH Aachen University **](https://www.vision.rwth-aachen.de/)
+

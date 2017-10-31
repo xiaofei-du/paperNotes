@@ -30,7 +30,7 @@
 
 - **Multi-target Tracking with Strong and Weak Detections.** Ricardo Sanchez-Matilla, Fabio Poiesi and Andrea Cavallaro. BMTT (2016). \[[paper](http://www.eecs.qmul.ac.uk/~andrea/papers/2016_ECCVW_MOT_OnlineMTTwithStrongAndWeakDetections_Sanchez-Matilla_Poiesi_Cavallaro.pdf)\]
 
-- **POI: Multiple Object Tracking with High Performance Detection and Appearance Feature.** Fengwei Yu, Wenbo Li, Quanquan Li, Yu Liu, Xiaohua Shi, Junjie Yan. BMTT (2016). \[[paper](https://arxiv.org/abs/1610.06136)\]
+- **POI: Multiple Object Tracking with High Performance Detection and Appearance Feature.** Fengwei Yu, Wenbo Li, Quanquan Li, Yu Liu, Xiaohua Shi, Junjie Yan. BMTT (2016). \[[paper](https://arxiv.org/abs/1610.06136)\]\[[Q&A](https://www.zhihu.com/question/40545681)\]
 
   ​:green_book:​ _The paper points out the importance of high performance <u>detector</u> and <u>appearance feature</u>. They lead to the state-of-the-art results, even with a simple online tracker._
 
