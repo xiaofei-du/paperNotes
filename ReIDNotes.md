@@ -24,11 +24,31 @@
 
 - [**DukeMTMC4ReID**](https://github.com/NEU-Gou/DukeReID)
 
+### Other Datasets
+
+- [**HDA Person Dataset**](http://vislab.isr.ist.utl.pt/hda-dataset/)
+
+  > The dataset is a multi-camera high-resolution image sequence dataset for research on high-definition surveillance. 18 cameras (including VGA, HD and Full HD resolution) were recorded simultaneously during 30 minutes in a typical indoor office scenario at a busy hour (lunch time) involving more than 80 persons.
+  >
+  > **Some statistics:**
+  >
+  > 	Labeled Sequences: 13
+  >
+  > 	Number of Frames: 75207
+  >
+  > 	Number of Bounding Boxes: 64028
+  >
+  > 	Number of Persons: 85
+
 ### Papers
+
+1. [Person re-identification baseline](https://github.com/layumi/Person_reID_baseline_pytorch): Baseline Code (with bottleneck) for Person-reID (pytorch).
+2. 
 
 ### Highlights
 
-- [**Re-ID Datasets Update**](https://robustsystems.coe.neu.edu/sites/robustsystems.coe.neu.edu/files/systems/projectpages/reiddataset.html)
+- :star: [**Re-ID Resources**](https://wangzwhu.github.io/home/re_id_resources.html)
+- :star: [**Re-ID Datasets Updates**](http://robustsystems.coe.neu.edu/sites/robustsystems.coe.neu.edu/files/systems/projectpages/reiddataset.html)
 - [**Xiaogang Wang's Datasets**](http://www.ee.cuhk.edu.hk/~xgwang/datasets.html)
 - [**Liang Zheng's Datasets**](http://www.liangzheng.org/Datasets.html)
 

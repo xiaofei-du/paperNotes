@@ -5,6 +5,8 @@
 - **RTT: Recurrently Target-Attending Tracking.** Zhen Cui, Shengtao Xiao, Jiashi Feng, Shuicheng Yan. CVPR (2016). \[[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Cui_Recurrently_Target-Attending_Tracking_CVPR_2016_paper.pdf)\]
 - **GOTURN: Learning to Track at 100 FPS with Deep Regression Networks.** David Held, Sebastian Thrun, Silvio Savarese. ECCV (2016). [[paper](https://arxiv.org/abs/1604.01802)]\[[project](http://davheld.github.io/GOTURN/GOTURN.html)\]\[[code](https://github.com/davheld/GOTURN)\]
 - **Re3: Real-Time Recurrent Regression Networks for Object Tracking.** Daniel Gordon, Ali Farhadi, Dieter Fox. arXiv (2017). \[[paper](https://arxiv.org/abs/1705.06368)\]
+- **Fully-Convolutional Siamese Networks for Object Tracking.** [Luca Bertinetto](https://www.robots.ox.ac.uk/~luca/index.html), [Jack Valmadre](http://jack.valmadre.net/), [João F. Henriques](http://www.robots.ox.ac.uk/~joao/), [Andrea Vedaldi](http://www.robots.ox.ac.uk/~vedaldi/), [Philip H.S. Torr](https://scholar.google.it/citations?user=kPxa2w0AAAAJ&hl=en&oi=ao). ECCV (2016). \[[project](https://www.robots.ox.ac.uk/~luca/siamese-fc.html)\]
+- **End-to-end Representation Learning for Correlation Filter Based Tracking.** [Jack Valmadre *](http://jack.valmadre.net/), [Luca Bertinetto *](http://www.robots.ox.ac.uk/~luca/index.html), [João F. Henriques](http://www.robots.ox.ac.uk/~joao/), [Andrea Vedaldi](http://www.robots.ox.ac.uk/~vedaldi/), [Philip H.S. Torr](https://scholar.google.it/citations?user=kPxa2w0AAAAJ&hl=en&oi=ao). CVPR (2017) \[[project](http://www.robots.ox.ac.uk/~luca/cfnet.html)\]
 
 
 
