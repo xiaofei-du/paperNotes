@@ -175,5 +175,5 @@
 - [**Workshop on Benchmarking Multi-target Tracking (BMTT)**](https://motchallenge.net/workshops/bmtt-pets2017/)
 - [**Perceiving Systems at Max Planck Institue for Intelligent Systems**](https://ps.is.tuebingen.mpg.de/publications)
 - [**Institute of Computer Graphics and Vision at TU Graz**](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/)
-- [**Computer Vision Group at RWTH Aachen University **](https://www.vision.rwth-aachen.de/)
+- [**Computer Vision Group at RWTH Aachen University**](https://www.vision.rwth-aachen.de/)
 
