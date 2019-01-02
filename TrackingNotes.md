@@ -114,7 +114,7 @@
 
 - **Joint Graph Decomposition and Node Labeling: Problem, Algorithms, Applications.** Evgeny Levinkov, Jonas Uhrig, Siyu Tang, Mohamed Omran, Eldar Insafutdinov, Alexander Kirillov, Carsten Rother, Thomas Brox, Bernt Schiele and Bjoern Andres. CVPR (2017). \[[paper](https://arxiv.org/abs/1611.04399)\]
 
-- **LMP: Multiple People Tracking with Lifted Multicut and Person Re-identification.** Siyu Tang and Mykhaylo Andriluka and Bjoern Andres and Bernt Schiele. CVPR (2017). :trophy:*Winner of MOT16 leaderboard*. \[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tang_Multiple_People_Tracking_CVPR_2017_paper.pdf)\]
+- **LMP: Multiple People Tracking with Lifted Multicut and Person Re-identification.** Siyu Tang and Mykhaylo Andriluka and Bjoern Andres and Bernt Schiele. CVPR (2017). \[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tang_Multiple_People_Tracking_CVPR_2017_paper.pdf)\] :trophy:*Winner of MOT16 leaderboard*. 
 
 - **Multi-target Tracking with Strong and Weak Detections.** Ricardo Sanchez-Matilla, Fabio Poiesi and Andrea Cavallaro. BMTT (2016). \[[paper](http://www.eecs.qmul.ac.uk/~andrea/papers/2016_ECCVW_MOT_OnlineMTTwithStrongAndWeakDetections_Sanchez-Matilla_Poiesi_Cavallaro.pdf)\]
 
